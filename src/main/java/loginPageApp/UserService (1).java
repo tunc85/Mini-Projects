@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class UserService {
+class UserService1 {
     List<String>emails=new ArrayList<>();
 
     List<String>passwords=new ArrayList<>();
